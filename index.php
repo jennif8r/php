@@ -8,6 +8,11 @@
 </head>
 <body>
     <h1>TELAS</h1>
-<a href="alunos.php">Alunos</a>
+<h2><a href="alunos.php">Alunos</a></h2>
+<br>
+<h2><a href="AulaForm.php">Pessoa</a></h2>
+<h2><a href="consultaAluno.php">Consulta Alunos</a></h2>
+<h2><a href="consultaPessoa.php">Consulta Pessoas</a></h2>
+
 </body>
 </html>
